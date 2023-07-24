@@ -1,1 +1,1 @@
-# runtrack
+This running tracking application is built using a combination of Bash, Python, and SQL to help  track and monitor their running activities. It provides essential features to analyze running sessions, set goals, and maintain a record of performance.
